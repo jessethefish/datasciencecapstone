@@ -12,4 +12,4 @@
 
 ## Data
 
-The data we will utilize to investigate and determine what the best neighborhood/area is will be pulled from the Foursquare API, as well as from public demographic datasets. The Foursquare API will give us venue and location-based information, whereas the [http://econ.maine.gov/](Maine State Economists') site will give us access to a variety of demographic datasets. 
+The data we will utilize to investigate and determine what the best neighborhood/area is will be pulled from the Foursquare API, as well as from public demographic datasets. The Foursquare API will give us venue and location-based information; the Maine State Economists' site will give us access to a variety of demographic datasets. The data will be visually presented using maps and other data visualizations.
